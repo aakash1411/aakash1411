@@ -37,7 +37,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/aakash1411">
   <img width="450em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aakash1411&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img width="450em" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aakash1411&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
