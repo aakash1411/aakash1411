@@ -16,7 +16,6 @@
 ![Python](https://img.shields.io/badge/Python-F2C811?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 
 ![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-FF6F00?style=for-the-badge&logo=Naver&logoColor=white)&nbsp;
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)&nbsp;
